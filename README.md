@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Lore
 Industrial Engineer from [Ricardo Palma University](https://www.urp.edu.pe/) with 4+ years experience in Industrial Operations and looking for new challenges as a Data Analyst .
-
-**Elloisa/Elloisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on my data analyzing skills
 - 🌱 I’m currently learning SQL, Python, Pandas, Numpy and Power BI
