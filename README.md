@@ -6,6 +6,7 @@ Industrial Engineer from [Ricardo Palma University](https://www.urp.edu.pe/) wit
 - 👯 I’m looking to collaborate on projects where I could solve problems using my knowledgement as a data analyst
 - 🤔 I’m looking for help with Python libaries - Numpy ,  Pandas
 - 💬 Ask me about SQL, Python and Power BI
-- 📫 How to reach me: [Lorena Tito Ramos](https://www.linkedin.com/in/lorenatitoramos/) on LinkedIn
+- 📫 How to reach me: [Lorena Tito Ramos](https://www.linkedin.com/in/lorenatitoramos/) on LinkedIn 
 - 😄 Interests: Bubsiness Analytics, Data Analytics, and Data Science
 - ⚡ Fact: Analysis and analytics are not two interchangeable terms
+Some basic data visualization examples: [Lorena Tito Ramos] (https://public.tableau.com/app/profile/lorenatitoramos) on Tableau
