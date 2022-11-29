@@ -9,4 +9,4 @@ Industrial Engineer from [Ricardo Palma University](https://www.urp.edu.pe/) wit
 - 📫 How to reach me: [Lorena Tito Ramos](https://www.linkedin.com/in/lorenatitoramos/) on LinkedIn 
 - 😄 Interests: Bubsiness Analytics, Data Analytics, and Data Science
 - ⚡ Fact: Analysis and analytics are not two interchangeable terms
-Some basic data visualization examples: [Lorena Tito Ramos] (https://public.tableau.com/app/profile/lorenatitoramos) on Tableau
+- Some basic data visualization examples: [Lorena Tito Ramos](https://public.tableau.com/app/profile/lorenatitoramos) on Tableau
