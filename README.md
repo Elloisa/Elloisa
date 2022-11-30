@@ -10,4 +10,4 @@ Industrial Engineer from [Ricardo Palma University](https://www.urp.edu.pe/) wit
 - 😄 Interests: Bubsiness Analytics, Data Analytics, and Data Science
 - ⚡ Fact: Analysis and analytics are not two interchangeable terms
 - Some basic data visualization examples: [Lorena Tito Ramos](https://public.tableau.com/app/profile/lorenatitoramos) on Tableau
-- Icon request: tik-tok (https://www.tiktok.com/@grwtm_datagirl?is_from_webapp=1&sender_device=pc)
+- We could learn together: [@grtwm_datagirl](https://www.tiktok.com/@grwtm_datagirl?is_from_webapp=1&sender_device=pc) on TikTok
